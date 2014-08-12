@@ -1,0 +1,20 @@
+The most important changes:
+
+*** common changes ***
+* Add IPv6 support.
+* Rewrite code from Boost to C++11 where it is possible.
+* Improve Lua support.
+
+*** eiskaltdcpp-qt ***
+* Add Qt5 support.
+* Add dialog widget for debugging Lua scripts.
+
+*** eiskaltdcpp-gtk ***
+* Get rid of deprecated Gtk+ 3.x elements.
+* Confirugation dialog for IP filter.
+
+*** eiskaltdcpp-daemon ***
+* See: eiskaltdcpp-cli/TODO
+
+*** eiskaltdcpp-cli ***
+* See: eiskaltdcpp-cli/TODO
